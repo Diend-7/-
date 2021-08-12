@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "MybatisConfiguration#useDeprecatedExecutor",
+      "type": "java.lang.String",
+      "description": "Description for MybatisConfiguration#useDeprecatedExecutor."
+  }
+] }
