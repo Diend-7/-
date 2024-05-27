@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T07:11:33.346Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="TOnF1SPua_yEm4KuGZGY" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-27T16:10:41.401Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="-EXWZotXzalcD_4n3jsy" version="24.4.9" type="github">
   <diagram name="第 1 页" id="Z7_LiqJT6VRr32ZiYmep">
-    <mxGraphModel dx="1802" dy="845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="Xl0Ga1pmbO1RNWtwwPbQ-5" value="数据支撑服务" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="110" y="330" width="260" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="Xl0Ga1pmbO1RNWtwwPbQ-7" value="新&lt;br style=&quot;font-size: 14px;&quot;&gt;地&lt;br style=&quot;font-size: 14px;&quot;&gt;震&lt;br style=&quot;font-size: 14px;&quot;&gt;协&lt;br style=&quot;font-size: 14px;&quot;&gt;议&lt;br style=&quot;font-size: 14px;&quot;&gt;解&lt;br style=&quot;font-size: 14px;&quot;&gt;析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="Xl0Ga1pmbO1RNWtwwPbQ-7" value="地&lt;div&gt;震&lt;/div&gt;&lt;div&gt;数&lt;/div&gt;&lt;div&gt;据&lt;/div&gt;&lt;div&gt;采&lt;/div&gt;&lt;div&gt;集&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="120" y="360" width="40" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Xl0Ga1pmbO1RNWtwwPbQ-8" value="数&lt;br style=&quot;font-size: 14px;&quot;&gt;据&lt;br style=&quot;font-size: 14px;&quot;&gt;存&lt;br style=&quot;font-size: 14px;&quot;&gt;储" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
